@@ -1,7 +1,6 @@
 # 🚀 AtsutamaPrograms JSON Repair Tool
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/AtsutamaPrograms/AtsutamaPrograms-JSON-Repair-Tool?color=brightgreen)](https://github.com/AtsutamaPrograms/AtsutamaPrograms-JSON-Repair-Tool/releases/tag/Ver1.0.0)
 
 ## 🇯🇵 概要
 
